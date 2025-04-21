@@ -1,0 +1,14 @@
+D:\C# With Devskill\CodeExamples\Loops\obj\Debug\net9.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# With Devskill\CodeExamples\Loops\obj\Debug\net9.0\Loops.AssemblyInfoInputs.cache
+D:\C# With Devskill\CodeExamples\Loops\obj\Debug\net9.0\Loops.AssemblyInfo.cs
+D:\C# With Devskill\CodeExamples\Loops\obj\Debug\net9.0\Loops.csproj.CoreCompileInputs.cache
+D:\C# With Devskill\CodeExamples\Loops\bin\Debug\net9.0\Loops.exe
+D:\C# With Devskill\CodeExamples\Loops\bin\Debug\net9.0\Loops.deps.json
+D:\C# With Devskill\CodeExamples\Loops\bin\Debug\net9.0\Loops.runtimeconfig.json
+D:\C# With Devskill\CodeExamples\Loops\bin\Debug\net9.0\Loops.dll
+D:\C# With Devskill\CodeExamples\Loops\bin\Debug\net9.0\Loops.pdb
+D:\C# With Devskill\CodeExamples\Loops\obj\Debug\net9.0\Loops.dll
+D:\C# With Devskill\CodeExamples\Loops\obj\Debug\net9.0\refint\Loops.dll
+D:\C# With Devskill\CodeExamples\Loops\obj\Debug\net9.0\Loops.pdb
+D:\C# With Devskill\CodeExamples\Loops\obj\Debug\net9.0\Loops.genruntimeconfig.cache
+D:\C# With Devskill\CodeExamples\Loops\obj\Debug\net9.0\ref\Loops.dll

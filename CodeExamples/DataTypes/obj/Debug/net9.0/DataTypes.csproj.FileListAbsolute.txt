@@ -1,0 +1,14 @@
+D:\C# With Devskill\CodeExamples\DataTypes\bin\Debug\net9.0\DataTypes.exe
+D:\C# With Devskill\CodeExamples\DataTypes\bin\Debug\net9.0\DataTypes.deps.json
+D:\C# With Devskill\CodeExamples\DataTypes\bin\Debug\net9.0\DataTypes.runtimeconfig.json
+D:\C# With Devskill\CodeExamples\DataTypes\bin\Debug\net9.0\DataTypes.dll
+D:\C# With Devskill\CodeExamples\DataTypes\bin\Debug\net9.0\DataTypes.pdb
+D:\C# With Devskill\CodeExamples\DataTypes\obj\Debug\net9.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# With Devskill\CodeExamples\DataTypes\obj\Debug\net9.0\DataTypes.AssemblyInfoInputs.cache
+D:\C# With Devskill\CodeExamples\DataTypes\obj\Debug\net9.0\DataTypes.AssemblyInfo.cs
+D:\C# With Devskill\CodeExamples\DataTypes\obj\Debug\net9.0\DataTypes.csproj.CoreCompileInputs.cache
+D:\C# With Devskill\CodeExamples\DataTypes\obj\Debug\net9.0\DataTypes.dll
+D:\C# With Devskill\CodeExamples\DataTypes\obj\Debug\net9.0\refint\DataTypes.dll
+D:\C# With Devskill\CodeExamples\DataTypes\obj\Debug\net9.0\DataTypes.pdb
+D:\C# With Devskill\CodeExamples\DataTypes\obj\Debug\net9.0\DataTypes.genruntimeconfig.cache
+D:\C# With Devskill\CodeExamples\DataTypes\obj\Debug\net9.0\ref\DataTypes.dll

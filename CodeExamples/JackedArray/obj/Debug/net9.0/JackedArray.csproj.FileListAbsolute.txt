@@ -1,0 +1,14 @@
+D:\C# With Devskill\CodeExamples\JackedArray\bin\Debug\net9.0\JackedArray.exe
+D:\C# With Devskill\CodeExamples\JackedArray\bin\Debug\net9.0\JackedArray.deps.json
+D:\C# With Devskill\CodeExamples\JackedArray\bin\Debug\net9.0\JackedArray.runtimeconfig.json
+D:\C# With Devskill\CodeExamples\JackedArray\bin\Debug\net9.0\JackedArray.dll
+D:\C# With Devskill\CodeExamples\JackedArray\bin\Debug\net9.0\JackedArray.pdb
+D:\C# With Devskill\CodeExamples\JackedArray\obj\Debug\net9.0\JackedArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# With Devskill\CodeExamples\JackedArray\obj\Debug\net9.0\JackedArray.AssemblyInfoInputs.cache
+D:\C# With Devskill\CodeExamples\JackedArray\obj\Debug\net9.0\JackedArray.AssemblyInfo.cs
+D:\C# With Devskill\CodeExamples\JackedArray\obj\Debug\net9.0\JackedArray.csproj.CoreCompileInputs.cache
+D:\C# With Devskill\CodeExamples\JackedArray\obj\Debug\net9.0\JackedArray.dll
+D:\C# With Devskill\CodeExamples\JackedArray\obj\Debug\net9.0\refint\JackedArray.dll
+D:\C# With Devskill\CodeExamples\JackedArray\obj\Debug\net9.0\JackedArray.pdb
+D:\C# With Devskill\CodeExamples\JackedArray\obj\Debug\net9.0\JackedArray.genruntimeconfig.cache
+D:\C# With Devskill\CodeExamples\JackedArray\obj\Debug\net9.0\ref\JackedArray.dll
