@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# With Devskill\\CodeExamples\\DataTypes\\DataTypes.csproj": {}
+    "D:\\Professional-Programming-with-CSharp\\CodeExamples\\DataTypes\\DataTypes.csproj": {}
   },
   "projects": {
-    "D:\\C# With Devskill\\CodeExamples\\DataTypes\\DataTypes.csproj": {
+    "D:\\Professional-Programming-with-CSharp\\CodeExamples\\DataTypes\\DataTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# With Devskill\\CodeExamples\\DataTypes\\DataTypes.csproj",
+        "projectUniqueName": "D:\\Professional-Programming-with-CSharp\\CodeExamples\\DataTypes\\DataTypes.csproj",
         "projectName": "DataTypes",
-        "projectPath": "D:\\C# With Devskill\\CodeExamples\\DataTypes\\DataTypes.csproj",
+        "projectPath": "D:\\Professional-Programming-with-CSharp\\CodeExamples\\DataTypes\\DataTypes.csproj",
         "packagesPath": "C:\\Users\\taiba\\.nuget\\packages\\",
-        "outputPath": "D:\\C# With Devskill\\CodeExamples\\DataTypes\\obj\\",
+        "outputPath": "D:\\Professional-Programming-with-CSharp\\CodeExamples\\DataTypes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

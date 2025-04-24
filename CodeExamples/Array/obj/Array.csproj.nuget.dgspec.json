@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# With Devskill\\CodeExamples\\Array\\Array.csproj": {}
+    "D:\\Professional-Programming-with-CSharp\\CodeExamples\\Array\\Array.csproj": {}
   },
   "projects": {
-    "D:\\C# With Devskill\\CodeExamples\\Array\\Array.csproj": {
+    "D:\\Professional-Programming-with-CSharp\\CodeExamples\\Array\\Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# With Devskill\\CodeExamples\\Array\\Array.csproj",
+        "projectUniqueName": "D:\\Professional-Programming-with-CSharp\\CodeExamples\\Array\\Array.csproj",
         "projectName": "Array",
-        "projectPath": "D:\\C# With Devskill\\CodeExamples\\Array\\Array.csproj",
+        "projectPath": "D:\\Professional-Programming-with-CSharp\\CodeExamples\\Array\\Array.csproj",
         "packagesPath": "C:\\Users\\taiba\\.nuget\\packages\\",
-        "outputPath": "D:\\C# With Devskill\\CodeExamples\\Array\\obj\\",
+        "outputPath": "D:\\Professional-Programming-with-CSharp\\CodeExamples\\Array\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

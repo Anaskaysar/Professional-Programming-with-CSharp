@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# With Devskill\\CodeExamples\\JackedArray\\JackedArray.csproj": {}
+    "D:\\Professional-Programming-with-CSharp\\CodeExamples\\JackedArray\\JackedArray.csproj": {}
   },
   "projects": {
-    "D:\\C# With Devskill\\CodeExamples\\JackedArray\\JackedArray.csproj": {
+    "D:\\Professional-Programming-with-CSharp\\CodeExamples\\JackedArray\\JackedArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# With Devskill\\CodeExamples\\JackedArray\\JackedArray.csproj",
+        "projectUniqueName": "D:\\Professional-Programming-with-CSharp\\CodeExamples\\JackedArray\\JackedArray.csproj",
         "projectName": "JackedArray",
-        "projectPath": "D:\\C# With Devskill\\CodeExamples\\JackedArray\\JackedArray.csproj",
+        "projectPath": "D:\\Professional-Programming-with-CSharp\\CodeExamples\\JackedArray\\JackedArray.csproj",
         "packagesPath": "C:\\Users\\taiba\\.nuget\\packages\\",
-        "outputPath": "D:\\C# With Devskill\\CodeExamples\\JackedArray\\obj\\",
+        "outputPath": "D:\\Professional-Programming-with-CSharp\\CodeExamples\\JackedArray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

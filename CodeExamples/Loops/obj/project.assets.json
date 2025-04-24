@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# With Devskill\\CodeExamples\\Loops\\Loops.csproj",
+      "projectUniqueName": "D:\\Professional-Programming-with-CSharp\\CodeExamples\\Loops\\Loops.csproj",
       "projectName": "Loops",
-      "projectPath": "D:\\C# With Devskill\\CodeExamples\\Loops\\Loops.csproj",
+      "projectPath": "D:\\Professional-Programming-with-CSharp\\CodeExamples\\Loops\\Loops.csproj",
       "packagesPath": "C:\\Users\\taiba\\.nuget\\packages\\",
-      "outputPath": "D:\\C# With Devskill\\CodeExamples\\Loops\\obj\\",
+      "outputPath": "D:\\Professional-Programming-with-CSharp\\CodeExamples\\Loops\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
